@@ -67,7 +67,7 @@ const ContactModal = ({ isOpen, onClose }: ContactModalProps) => {
                   Phone
                 </p>
                 <p className="mt-1 font-semibold text-blue-950 group-hover:text-red-600">
-                  +232 XX XXX XXX
+                  +232 00 XXX XXX
                 </p>
               </div>
             </a>
